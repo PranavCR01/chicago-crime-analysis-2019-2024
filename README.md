@@ -5,8 +5,20 @@ This project analyzes patterns and trends in crime across Chicago from 2019 to 2
 ---
 
 ## 📁 Project Structure
-
-
+```
+chicago-crime-analysis-2019-2024/
+│
+├── R_Scripts/
+│   ├── RQ1_Top5_ChicagoCrimeAnalysis.R              # Trends in top 5 crime types (2019–2024)
+│   ├── RQ2_ChicagoCrime_Seasonality_of_Crimes.R     # Seasonal and time-of-day analysis
+│   ├── RQ3_ChicagoCrimeAnalysis.R                   # Physical vs. property crime trends
+│   ├── RQ4_ChicagoCrimeAnalysis.R                   # Arrests vs. non-arrests by crime type
+│   └── RQ5_Crime_Analysis_Heatmap.R                 # Heatmap of crime distribution by location
+│
+├── Report/
+│   ├── IS507_FinalProjectReport.pdf
+├── README.md
+```
 ---
 
 ## 🎯 Research Objectives
